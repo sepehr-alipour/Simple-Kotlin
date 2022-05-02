@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">آزمونک</string>
+    <string name="text_origin">از مبدا %s</string>
+    <string name="text_destination">به مقصد %s</string>
+    <string name="text_tonnage">%d تن</string>
+    <string name="text_price">%d میلیون تومان</string>
+    <string name="btn_accept">با %d میلیون تومان کرایه می برم</string>
+    <string name="text_selected_shipment">بار %s به %s انتخاب شه است</string>
+    <string name="btn_delete">حذف</string>
+</resources>
